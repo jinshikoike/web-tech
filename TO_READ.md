@@ -1,0 +1,3 @@
+- pwa amp ?
+  - [いまさら聞けないPWAとAMP](http://qiita.com/edwardkenfox/items/4c0b9550ffa48c1f0445)
+  - [safari support pwa?](http://qiita.com/Yatima/items/b9f1962da1a304dc7604)
